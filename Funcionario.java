@@ -1,6 +1,6 @@
-public abstract class Funcionario {
+public class Funcionario {
 
-    protected int matricula=0;
+    protected int matricula;
     private String nome;
     protected int idade;
     protected int cpf;
